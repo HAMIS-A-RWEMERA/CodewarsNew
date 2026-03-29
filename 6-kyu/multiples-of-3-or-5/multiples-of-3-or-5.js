@@ -1,3 +1,6 @@
+function solution(number){
+  
+} 
 function solution(number) {
   if (number < 0) return 0;
   
@@ -7,6 +10,6 @@ function solution(number) {
       sum += i;
     }
   }
-  return sum;  
+  return sum;
 }
 ​
